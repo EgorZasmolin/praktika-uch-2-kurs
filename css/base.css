@@ -5,26 +5,5 @@ body {
   font-weight: 400;
   position: absolute;
   width: 1920px;
+  background-color: #ffffff;
 }
-/* .zagolovok1 {
-  position: absolute;
-  width: 549px;
-  height: 156px;
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 72px;
-  line-height: 78px;
-  color: #212121;
-}
-.nadzagolovok1 {
-  position: absolute;
-  width: 186px;
-  height: 27px;
-  font-family: "Open Sans";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 27px;
-  color: #646464;
-} */
