@@ -27,7 +27,6 @@
     color: #212121;
 }
 .block1{
-    
     margin-left: 200px;
     margin-top: 150px;
     width: 425px;
@@ -37,7 +36,6 @@
     border-radius: 60px 0px;
 }
 .blockzagolovok1{
-    text-align: left;
     width: 180px;
     height: 78px;
     font-family: 'Open Sans';
@@ -62,6 +60,22 @@
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
     border-radius: 60px 0px;
 }
+.blockzagolovok2{
+    width: 180px;
+    height: 78px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.blocktext2{
+    width: 307px;
+    height: 84px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
 .block3{
     margin-left: 200px;
     margin-top: 150px;
@@ -70,6 +84,22 @@
     background: #FFFFFF;
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
     border-radius: 60px 0px;
+}
+.blockzagolovok3{
+    width: 180px;
+    height: 78px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 24px;
+    color: #212121;
+}
+.blocktext3{
+    width: 307px;
+    height: 84px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #646464;
 }
 .knopka1{
     margin-right: 5px;

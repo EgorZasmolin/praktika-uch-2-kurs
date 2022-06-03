@@ -60,17 +60,21 @@ color: #646464;
     color: #FFFFFF;
 }
 .foto1{
-    display: flex;
-    width: 717px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    width: 917px;
     height: 626px;
-    
+    border: 2px solid #B0855B;
+    border-radius: 140px 0px;
+    color: #B0855B;
     }
 .shadowfoto1{
-    margin-top: 50px;
+    margin-top: 60px;
     box-sizing: border-box;
     width: 1016px;
     height: 626px;
     border: 2px solid #B0855B;
     border-radius: 140px 0px;
     color: #B0855B;
+    z-index: -1;
 }
