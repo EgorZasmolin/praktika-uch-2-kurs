@@ -1,0 +1,77 @@
+.container3{
+    width: 1850px;
+    height: 726px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.foto2{
+    position: absolute;
+    margin-left: 200px;
+    margin-left: 300px;
+    margin-top: 70px;
+    width: 761px;
+    height: 726px;
+    border: 2px solid #B0855B;
+    border-radius: 140px 0px;
+}
+.shadowfoto2{
+    margin-left: 200px;
+    width: 781px;
+    height: 726px;
+    border: 2px solid #B0855B;
+    border-radius: 140px 0px;
+    z-index: -1;
+}
+.nadzagolovok3{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 20px;
+    width: 96px;
+    height: 30px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    color: #646464;
+}
+.zagolovok3{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 50px;
+    width: 490px;
+    height: 114px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 48px;
+    color: #212121;
+}
+.text2{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 170px;
+    width: 544px;
+    height: 240px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+}
+.learnmore{
+    display: flex;
+    align-items: center;
+    margin-top: 450px;
+    margin-right: 500px;
+    width: 142.15px;
+    height: 42.81px;
+    background: #37806B;
+    border-radius: 20px 0px;
+}
+.knopkamore{
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+}
+

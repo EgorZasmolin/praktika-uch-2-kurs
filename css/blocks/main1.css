@@ -33,11 +33,11 @@
     margin-top: 320px;
     margin-left: 200px;
     width: 603px;
-height: 90px;
-font-family: 'Open Sans';
-font-weight: 400;
-font-size: 18px;
-color: #646464;
+    height: 90px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #646464;
 }
 .contact{
     display: flex;
@@ -60,21 +60,24 @@ color: #646464;
     color: #FFFFFF;
 }
 .foto1{
-    margin-top: 50px;
+    margin-left: 850px;
+    position: absolute;
     box-sizing: border-box;
-    width: 917px;
+    width: 717px;
     height: 626px;
     border: 2px solid #B0855B;
     border-radius: 140px 0px;
     color: #B0855B;
+    background: url(toa-heftiba-FV3GConVSss-unsplash.svg);
     }
 .shadowfoto1{
     margin-top: 60px;
     box-sizing: border-box;
-    width: 1016px;
+    width: 716px;
     height: 626px;
     border: 2px solid #B0855B;
     border-radius: 140px 0px;
     color: #B0855B;
     z-index: -1;
 }
+
