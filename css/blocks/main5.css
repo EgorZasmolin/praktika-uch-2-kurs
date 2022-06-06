@@ -1,0 +1,75 @@
+.main5row {
+  display: flex;
+  justify-content: space-between;
+}
+.zagolovok5 {
+  position: absolute;
+  text-align: center;
+  margin-top: 100px;
+  left: 551px;
+  width: 817px;
+  height: 120px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 48px;
+  color: #212121;
+}
+.block4 {
+  position: absolute;
+  align-items: center;
+  width: 185px;
+  height: 182px;
+  left: 286px;
+  margin-top: 250px;
+  background: #ffffff;
+  box-shadow: 0px 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 0px;
+}
+.blocktext4 {
+  position: absolute;
+  text-align: center;
+  width: 86px;
+  height: 88px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 50px;
+  color: #212121;
+}
+.line1 {
+  position: absolute;
+  width: 218px;
+  height: 96px;
+  left: 565px;
+  margin-top: 350px;
+  background: url(/images/Vector\ 3.png);
+}
+.block5 {
+  position: absolute;
+  width: 185px;
+  height: 182px;
+  left: 672px;
+  margin-top: 350px;
+  background: #ffffff;
+  box-shadow: 0px 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 0px;
+}
+.block6 {
+  position: absolute;
+  width: 185px;
+  height: 182px;
+  left: 1058px;
+  margin-top: 250px;
+  background: #ffffff;
+  box-shadow: 0px 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 0px;
+}
+.block7 {
+  position: absolute;
+  width: 185px;
+  height: 182px;
+  left: 1444px;
+  margin-top: 350px;
+  background: #ffffff;
+  box-shadow: 0px 13px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 0px;
+}

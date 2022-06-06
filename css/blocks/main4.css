@@ -1,0 +1,73 @@
+.main4row4 {
+  display: flex;
+  justify-content: space-between;
+}
+.cifra {
+  position: absolute;
+  left: 200px;
+  width: 327px;
+  height: 28px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 288px;
+}
+.cifrafoto {
+  position: absolute;
+  width: 747px;
+  height: 938px;
+  /* background: url(/images/james-lindsay-kVBzVaVa7Q0-unsplash\ 1.jpg); */
+}
+.zagolovok4 {
+  position: absolute;
+  margin-top: 300px;
+  left: 200px;
+  width: 528px;
+  height: 195px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 50px;
+  color: #212121;
+}
+.shadowfoto3 {
+  margin-top: 300px;
+  left: 1000px;
+  object-fit: cover;
+  position: relative;
+  box-sizing: border-box;
+  width: 717px;
+  height: 626px;
+  border: 2px solid #b0855b;
+  border-radius: 140px 0px;
+  color: #b0855b;
+  z-index: -1;
+}
+.foto3 {
+  top: -50px;
+  left: -50px;
+  position: absolute;
+  width: 717px;
+  height: 626px;
+  border: 2px solid #b0855b;
+  border-radius: 140px 0px;
+  background: url(/images/pexels-lisa-fotios-1090638.jpg);
+}
+.readmore {
+  display: flex;
+  left: 200px;
+  margin-top: -200px;
+  align-items: center;
+  position: absolute;
+  width: 142.15px;
+  height: 42.81px;
+  background: #37806b;
+  border-radius: 20px 0px;
+}
+.knopkaread {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ffffff;
+}

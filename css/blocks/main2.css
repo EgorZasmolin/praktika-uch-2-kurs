@@ -1,146 +1,177 @@
-.container2{
-    width: 1650px;
-    height: 300px;
-    margin-top: 200px;
-    display: flex;
-    justify-content: space-between;
+.main2row {
+  display: flex;
+  justify-content: space-between;
 }
-.nadzagolovok2{
-    margin-left: 200px;
-    position: absolute;
-    width: 229px;
-    height: 28px;
-    font-family: "Poppins";
-    font-weight: 600;
-    font-size: 20px;
-    color: #646464;
+.nadzagolovok2 {
+  margin-left: 200px;
+  position: absolute;
+  width: 229px;
+  height: 28px;
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 20px;
+  color: #646464;
 }
-.zagolovok2{
-    margin-left: 200px;
-    margin-top: 25px;
-    position: absolute;
-    width: 276px;
-    height: 78px;
-    font-family: "Poppins";
-    font-weight: 500;
-    font-size: 48px;
-    color: #212121;
+.zagolovok2 {
+  margin-left: 200px;
+  margin-top: 25px;
+  position: absolute;
+  width: 276px;
+  height: 78px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 48px;
+  color: #212121;
 }
-.block1{
-    margin-left: 200px;
-    margin-top: 150px;
-    width: 425px;
-    height: 193px;
-    background: #FFFFFF;
-    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
-    border-radius: 60px 0px;
+.block1 {
+  margin-left: 200px;
+  margin-top: 150px;
+  width: 425px;
+  height: 193px;
+  background: #ffffff;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+  border-radius: 60px 0px;
 }
-.blockzagolovok1{
-    width: 180px;
-    height: 78px;
-    font-family: 'Open Sans';
-    font-weight: 700;
-    font-size: 24px;
-    color: #212121;
+.blockzagolovok1 {
+  margin-top: 35px;
+  margin-right: 125px;
+  width: 180px;
+  height: 78px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  color: #212121;
 }
-.blocktext1{
-    width: 307px;
-    height: 84px;
-    font-family: 'Open Sans';
-    font-weight: 400;
-    font-size: 18px;
-    color: #646464;
+.blocktext1 {
+  margin-top: -35px;
+  padding-left: 60px;
+  text-align: left;
+  width: 307px;
+  height: 84px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: #646464;
 }
-.block2{
-    margin-left: 200px;
-    margin-top: 150px;
-    width: 425px;
-    height: 193px;
-    background: #CAA892;
-    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
-    border-radius: 60px 0px;
+.ikonka1 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url(/images/sr.jpg);
 }
-.blockzagolovok2{
-    width: 180px;
-    height: 78px;
-    font-family: 'Open Sans';
-    font-weight: 700;
-    font-size: 24px;
-    color: #FFFFFF;
+.block2 {
+  margin-left: 200px;
+  margin-top: 150px;
+  width: 425px;
+  height: 193px;
+  background: #caa892;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+  border-radius: 60px 0px;
 }
-.blocktext2{
-    width: 307px;
-    height: 84px;
-    font-family: 'Open Sans';
-    font-weight: 400;
-    font-size: 18px;
-    color: #FFFFFF;
+.blockzagolovok2 {
+  margin-top: 35px;
+  margin-right: 140px;
+  width: 180px;
+  height: 78px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  color: #ffffff;
 }
-.block3{
-    margin-left: 200px;
-    margin-top: 150px;
-    width: 425px;
-    height: 193px;
-    background: #FFFFFF;
-    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
-    border-radius: 60px 0px;
+.blocktext2 {
+  margin-top: -35px;
+  padding-left: 60px;
+  text-align: left;
+  width: 307px;
+  height: 84px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
 }
-.blockzagolovok3{
-    width: 180px;
-    height: 78px;
-    font-family: 'Open Sans';
-    font-weight: 700;
-    font-size: 24px;
-    color: #212121;
+.ikonka2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url(/images/ere.jpg);
 }
-.blocktext3{
-    width: 307px;
-    height: 84px;
-    font-family: 'Open Sans';
-    font-weight: 400;
-    font-size: 18px;
-    color: #646464;
+.block3 {
+  margin-left: 200px;
+  margin-top: 150px;
+  width: 425px;
+  height: 193px;
+  background: #ffffff;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+  border-radius: 60px 0px;
 }
-.knopka1{
-    margin-right: 5px;
-    display: flex;
-    align-items: center;
-    width: 40px;
-    height: 29px;
-    border-radius: 50%;
-    background: #FFFFFF;
-    box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+.blockzagolovok3 {
+  margin-top: 35px;
+  margin-right: 165px;
+  width: 180px;
+  height: 78px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  color: #212121;
 }
-.knopka2{
-    display: flex;
-    align-items: center;
-    width: 40px;
-    height: 29px;
-    border-radius: 50%;
-    background: #37806B;
-    box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+.blocktext3 {
+  margin-top: -35px;
+  padding-left: 60px;
+  text-align: left;
+  width: 307px;
+  height: 84px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: #646464;
 }
-.tri1{
-    color: #212121;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+.ikonka3 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url(/images/sd.jpg);
 }
-.tri2{
-    color: #FFFFFF;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+.knopka1 {
+  margin-left: 1610px;
+  position: absolute;
+  width: 30px;
+  height: 29px;
+  border-radius: 50%;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
 }
-.ikonka1{
-    width: 40px;
-    height: 40px;
+.knopka2 {
+  margin-left: 1660px;
+  position: absolute;
+  width: 30px;
+  height: 29px;
+  border-radius: 50%;
+  align-items: center;
+  background: #37806b;
+  box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
 }
-.ikonka2{
-    width: 40px;
-    height: 40px;
+.tri1 {
+  color: #212121;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
-.ikonka3{
-    width: 40px;
-    height: 40px;
+.tri2 {
+  color: #ffffff;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ikonka1 {
+  width: 40px;
+  height: 40px;
+}
+.ikonka2 {
+  width: 40px;
+  height: 40px;
+}
+.ikonka3 {
+  width: 40px;
+  height: 40px;
 }
