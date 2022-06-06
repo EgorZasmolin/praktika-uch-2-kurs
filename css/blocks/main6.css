@@ -1,0 +1,15 @@
+.main6row {
+  display: flex;
+  justify-content: space-between;
+}
+.nadzagolovok6 {
+  position: absolute;
+  text-align: center;
+  width: 135px;
+  height: 30px;
+  left: 896px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 20px;
+  color: #646464;
+}

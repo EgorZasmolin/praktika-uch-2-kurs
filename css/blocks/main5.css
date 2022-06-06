@@ -39,9 +39,9 @@
   position: absolute;
   width: 218px;
   height: 96px;
-  left: 565px;
+  left: 465px;
   margin-top: 350px;
-  background: url(/images/Vector\ 3.png);
+  border: 2px solid #e0e0e0;
 }
 .block5 {
   position: absolute;
