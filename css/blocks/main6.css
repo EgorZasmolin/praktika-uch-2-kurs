@@ -59,11 +59,11 @@
   margin-left: auto;
   margin-right: auto;
 }
-.blocks2 {
+.blocks4 {
   display: flex;
   justify-content: space-around;
   margin-left: 15%;
-  padding-top: 7%;
+  padding-top: 10%;
 }
 .block8 {
   width: 571px;
