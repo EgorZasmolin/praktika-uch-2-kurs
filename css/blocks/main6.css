@@ -1,15 +1,162 @@
 .main6row {
+}
+.texta6 {
+  margin-top: 50px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 15%;
 }
 .nadzagolovok6 {
-  position: absolute;
-  text-align: center;
   width: 135px;
   height: 30px;
-  left: 896px;
   font-family: "Poppins";
   font-weight: 500;
   font-size: 20px;
   color: #646464;
+}
+.zagolovok6 {
+  width: 487px;
+  height: 72px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 48px;
+  color: #212121;
+}
+.knopki2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: row;
+}
+.knopka3 {
+  width: 30px;
+  height: 29px;
+  border-radius: 50%;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+}
+.knopka4 {
+  margin-left: 25px;
+  width: 30px;
+  height: 29px;
+  border-radius: 50%;
+  align-items: center;
+  background: #37806b;
+  box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+}
+.tri3 {
+  color: #212121;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tri4 {
+  color: #ffffff;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.blocks2 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 15%;
+  padding-top: 7%;
+}
+.block8 {
+  width: 571px;
+  height: 226px;
+  background: #ffffff;
+  box-shadow: 7px 7px 30px 5px rgba(66, 96, 84, 0.15);
+  border-radius: 70px 0px;
+}
+.blockzagolovok8 {
+  margin-top: 35px;
+  margin-left: 17%;
+  text-align: left;
+  width: 291px;
+  height: 33px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  color: #212121;
+}
+.blocktext8 {
+  margin-top: 17px;
+  padding-left: 60px;
+  text-align: left;
+  width: 434px;
+  height: 84px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: #646464;
+}
+.block9 {
+  width: 571px;
+  height: 226px;
+  background: #ffffff;
+  box-shadow: 7px 7px 30px 5px rgba(66, 96, 84, 0.15);
+  border-radius: 70px 0px;
+}
+.blockzagolovok9 {
+  margin-top: 35px;
+  margin-left: 17%;
+  text-align: left;
+  width: 291px;
+  height: 33px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 24px;
+  color: #212121;
+}
+.blocktext9 {
+  margin-top: 17px;
+  padding-left: 60px;
+  text-align: left;
+  width: 434px;
+  height: 84px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: #646464;
+}
+.portret1 {
+  margin-right: 35px;
+  width: 140px;
+  height: 124px;
+  border: 2px solid #b0855b;
+  border-radius: 50px 0px;
+  background: url(/images/pexels-pixabay-220453.jpg);
+}
+.portret2 {
+  width: 140px;
+  height: 124px;
+  border: 2px solid #b0855b;
+  border-radius: 50px 0px;
+  background: url(/images/pexels-andrea-piacquadio-774909.jpg);
+}
+.portreta {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 290px;
+  margin-top: -200px;
+}
+.kavachki {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 550px;
+  margin-top: -140px;
+}
+.kavachka1 {
+  width: 38px;
+  height: 109px;
+  margin-left: -100px;
+}
+.kavachka2 {
+  width: 38px;
+  height: 109px;
+  margin-right: -200px;
 }

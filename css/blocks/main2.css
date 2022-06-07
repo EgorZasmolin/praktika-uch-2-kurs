@@ -55,9 +55,11 @@
 }
 .ikonka1 {
   position: absolute;
+  margin-top: -135px;
+  margin-left: 12px;
   width: 40px;
   height: 40px;
-  background: url(/images/sr.jpg);
+  background: url(/images/sr.png);
 }
 .block2 {
   margin-left: 200px;
@@ -93,7 +95,7 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  background: url(/images/ere.jpg);
+  background: url(/images/ere.png);
 }
 .block3 {
   margin-left: 200px;
@@ -129,7 +131,7 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  background: url(/images/sd.jpg);
+  background: url(/images/sd.png);
 }
 .knopka1 {
   margin-left: 1610px;
@@ -162,16 +164,4 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
-.ikonka1 {
-  width: 40px;
-  height: 40px;
-}
-.ikonka2 {
-  width: 40px;
-  height: 40px;
-}
-.ikonka3 {
-  width: 40px;
-  height: 40px;
 }

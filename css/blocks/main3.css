@@ -2,6 +2,14 @@
   display: flex;
   justify-content: space-between;
 }
+.texta3 {
+  margin-left: 200px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
 .foto2 {
   top: 50px;
   left: 50px;
@@ -26,9 +34,7 @@
   z-index: -1;
 }
 .nadzagolovok3 {
-  left: 1200px;
-  margin-top: 160px;
-  position: absolute;
+  align-items: flex-start;
   width: 96px;
   height: 30px;
   font-family: "Poppins";
@@ -37,9 +43,6 @@
   color: #646464;
 }
 .zagolovok3 {
-  left: 1200px;
-  position: absolute;
-  margin-top: 200px;
   width: 490px;
   height: 114px;
   font-family: "Poppins";
@@ -48,9 +51,6 @@
   color: #212121;
 }
 .text2 {
-  left: 1200px;
-  position: absolute;
-  margin-top: 310px;
   width: 544px;
   height: 240px;
   font-family: "Open Sans";
@@ -58,9 +58,6 @@
   font-size: 18px;
 }
 .learnmore {
-  left: 1200px;
-  margin-top: 500px;
-  position: absolute;
   display: flex;
   align-items: center;
   width: 142.15px;
