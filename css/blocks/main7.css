@@ -1,0 +1,144 @@
+.main7row{
+
+}
+.texta7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 4,5%;
+    padding-top: 50px;
+  }
+  .nadzagolovok7 {
+    width: 124px;
+    height: 28px;
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 20px;
+    color: #646464;
+  }
+  .zagolovok7 {
+    width: 341px;
+    height: 28px;
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 48px;
+    color: #111111;
+  }
+  .fotki7{
+    display: flex;
+    justify-content: space-around;
+  }
+  .shadowfoto7 {
+    margin-top: 100px;
+    object-fit: cover;
+    position: relative;
+    box-sizing: border-box;
+    width: 554px;
+    height: 387px;
+    border: 2px solid #b0855b;
+    border-radius: 140px 0px;
+    color: #b0855b;
+  }
+  .foto7 {
+    top: -30px;
+    left: -30px;
+    position: absolute;
+    width: 554px;
+    height: 387px;
+    border: 2px solid #b0855b;
+    border-radius: 140px 0px;
+    background: url(/images/james-lindsay-kVBzVaVa7Q0-unsplash\ 2.jpg)
+  }
+  .shadowfoto8 {
+    margin-top: 100px;
+    object-fit: cover;
+    position: relative;
+    box-sizing: border-box;
+    width: 554px;
+    height: 387px;
+    border: 2px solid #b0855b;
+    border-radius: 140px 0px;
+    color: #b0855b;
+  }
+  .foto8 {
+    top: -30px;
+    left: -30px;
+    position: absolute;
+    width: 554px;
+    height: 387px;
+    border: 2px solid #b0855b;
+    border-radius: 140px 0px;
+    background: url(/images/pexels-john-tekeridis-1428348.jpg);
+  }
+.texta711{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+.zagolovok71{
+    width: 400px;
+    height: 28px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 30px;
+    color: #212121;
+}
+.text3{
+    width: 603px;
+    height: 56px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #646464;
+}
+.zagolovok72{
+    width: 606px;
+    height: 28px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 30px;
+    color: #212121;
+}
+.text4{
+    width: 603px;
+    height: 56px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 18px;
+    color: #646464;
+}
+.continue1 {
+    display: flex;
+    align-items: center;
+    width: 271px;
+    height: 53.06px;
+    background: #37806b;
+    border-radius: 20px 0px;
+  }
+  .knopkacontinue1 {
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+  }
+  .continue2 {
+    display: flex;
+    align-items: center;
+    width: 271px;
+    height: 53.06px;
+    background: #37806b;
+    border-radius: 20px 0px;
+  }
+  .knopkacontinue2 {
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+  }
