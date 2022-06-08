@@ -116,6 +116,15 @@
     background: #37806b;
     border-radius: 20px 0px;
   }
+.continue1:hover{
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
   .knopkacontinue1 {
     font-family: "Open Sans";
     font-weight: 600;
@@ -132,6 +141,15 @@
     height: 53.06px;
     background: #37806b;
     border-radius: 20px 0px;
+  }
+  .continue2:hover{
+    -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  transition: all 0.5s ease;
   }
   .knopkacontinue2 {
     font-family: "Open Sans";
