@@ -37,15 +37,10 @@
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  margin-left: 15%;
+  margin-left: 5%;
 }
-.stroka {
-  width: 772px;
-  height: 50px;
-  background: #eeeeee;
-  border-radius: 20px 0px;
-}
-.textvvoda {
+.textvvoda1 {
+  border: none;
   line-height: 50px;
   text-align: start;
   width: 772px;
@@ -54,8 +49,14 @@
   font-weight: 500;
   font-size: 18px;
   color: #646464;
+  width: 772px;
+  height: 50px;
+  background: #eeeeee;
+  border-radius: 20px 0px;
 }
 .subscribe {
+  position: absolute;
+  margin-left: 50%;
   display: flex;
   align-items: center;
   width: 180px;

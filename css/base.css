@@ -11,22 +11,22 @@ body {
   flex-direction: column;
 }
 .container1 {
-  width: 1920px;
+  width: 1669px;
   height: 626px;
 }
 .container2 {
   margin-top: 200px;
-  width: 1920px;
+  width: 1669px;
   height: 626px;
 }
 .container3 {
   margin-top: -150px;
-  width: 1920px;
+  width: 1669px;
   height: 626px;
 }
 .container4 {
   margin-top: 200px;
-  width: 1920px;
+  width: 1669px;
   height: 626px;
 }
 .container5 {
@@ -36,7 +36,7 @@ body {
   background-color: #f8f8f8;
 }
 .container6 {
-  width: 1920px;
+  width: 1669px;
   height: 626px;
 }
 .container7 {
@@ -47,6 +47,6 @@ body {
 }
 .container8 {
   margin-top: 200px;
-  width: 1920px;
+  width: 1669px;
   height: 426px;
 }
