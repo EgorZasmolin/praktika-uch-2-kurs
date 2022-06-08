@@ -1,7 +1,6 @@
 .main2row {
-
 }
-.texta2{
+.texta2 {
   margin-left: 200px;
 }
 .nadzagolovok2 {
@@ -20,7 +19,7 @@
   font-size: 48px;
   color: #212121;
 }
-.blocks1{
+.blocks1 {
   display: flex;
   justify-content: space-between;
   margin-left: 200px;
@@ -131,15 +130,15 @@
   height: 40px;
   background: url(/images/sd.png);
 }
-.knopki1{
+.knopki1 {
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
   flex-direction: row;
-  
 }
 
 .knopka1 {
+  display: flex;
   width: 30px;
   height: 29px;
   border-radius: 50%;
@@ -148,6 +147,7 @@
   box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
 }
 .knopka2 {
+  display: flex;
   margin-left: 25px;
   width: 30px;
   height: 29px;

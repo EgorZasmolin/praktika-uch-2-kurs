@@ -1,0 +1,74 @@
+.main8row {
+}
+.texta8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 15%;
+}
+.zagolovok8 {
+  text-align: center;
+  width: 686px;
+  height: 28px;
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 48px;
+  color: #212121;
+}
+.line4 {
+  margin-top: 40px;
+  width: 461px;
+  height: 0px;
+  border: 1px solid #c4c4c4;
+}
+.text5 {
+  margin-top: 30px;
+  text-align: center;
+  width: 647px;
+  height: 56px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 18px;
+  color: #646464;
+}
+.strokavvoda {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 15%;
+}
+.stroka {
+  width: 772px;
+  height: 50px;
+  background: #eeeeee;
+  border-radius: 20px 0px;
+}
+.textvvoda {
+  line-height: 50px;
+  text-align: start;
+  width: 772px;
+  height: 48.23px;
+  font-family: "Raleway";
+  font-weight: 500;
+  font-size: 18px;
+  color: #646464;
+}
+.subscribe {
+  display: flex;
+  align-items: center;
+  width: 180px;
+  height: 50px;
+  background: #37806b;
+  border-radius: 0px 0px 20px 0px;
+}
+.knopkasubscribe {
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ffffff;
+}
