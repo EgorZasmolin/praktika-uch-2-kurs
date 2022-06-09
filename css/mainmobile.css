@@ -1,4 +1,12 @@
-@media screen and (max-width: 480px) and (min-width: 380px) {
+@media (max-width: 800px) {
+  .body{
+    position: absolute;
+    width: 100%;
+    max-width: 480;
+    display: block;
+  justify-content: center;
+  flex-direction: column;
+  }
   .header {
     width: 480px;
     height: 37px;
@@ -12,7 +20,7 @@
     justify-content: flex-start;
     align-items: center;
     width: 100px;
-    column-gap: 7px;
+    column-gap: 5px;
     margin-left: 50px;
     font-family: "Open Sans";
     font-weight: 600;
@@ -125,11 +133,11 @@
     border-top: 1px groove;
   }
   .container2 {
-    margin-top: 0%;
     width: 500px;
     height: 326px;
   }
   .main2row {
+    margin-top: 0px;
   }
   .texta2 {
     margin-left: 50px;
