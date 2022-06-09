@@ -14,10 +14,6 @@
   align-items: flex-start;
   width: 327px;
   height: 28px;
-  font-family: "Open Sans";
-  font-weight: 700;
-  font-size: 288px;
-  color: #646464;
 }
 .zagolovok4 {
   margin-top: 250px;
@@ -36,7 +32,7 @@
   background: #37806b;
   border-radius: 20px 0px;
 }
-.readmore:hover{
+.readmore:hover {
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
