@@ -33,13 +33,15 @@
   color: #646464;
 }
 .strokavvoda {
+  width: 921px;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  margin-left: 10%;
+  margin-left: 30%;
 }
 .textvvoda1 {
+  position: relative;
   border: none;
   line-height: 50px;
   text-align: start;
@@ -55,8 +57,8 @@
   border-radius: 20px 0px;
 }
 .subscribe {
+  margin-left: 700px;
   position: absolute;
-  margin-left: 40%;
   display: flex;
   align-items: center;
   width: 180px;
